@@ -18,3 +18,16 @@
 *Aqui creamos la primera branch con el comando rapido*
 
 ![✖️ERROR✖️](./imagenes/6.png)
+
+## 4.4 – Desde tu rama (david02032022) edita el fichero readme.md de tal forma que quede de la siguiente manera:
+
+*Aqui he agregado cosas desde la branch*
+![✖️ERROR✖️](./imagenes/7.png)
+
+## 4.5 – Haz 3 commits desde nuestra rama (david02032022)
+
+## 4.6 – En el siguiente orden realiza lo siguiente:
+
+## 4.6.1 – Fusiona tu rama con master
+
+## 4.6.2 – Haz un push hacía la nube
