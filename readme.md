@@ -39,8 +39,23 @@
 
 ### 4.6.1 – Fusiona tu rama con master
 
+![✖️ERROR✖️](./imagenes/11.png)
+
 ### 4.6.2 – Haz un push hacía la nube
+
+![✖️ERROR✖️](./imagenes/12.png)
 
 ## 4.7 – Elimina solamente la rama en local david02032022 ya que si eliminásemos la remota no veríamos la rama en remoto.
 
+
+![✖️ERROR✖️](./imagenes/13.png)
+
+*El log despues de eliminarla*
+![✖️ERROR✖️](./imagenes/15.png)
 ## 4.8 - Visualiza el resultado tanto mediante el comando git log --all --oneline -decorate –graph, como desde el pluging de VSC
+
+*El log antes de elminarla*
+![✖️ERROR✖️](./imagenes/14.png)
+
+*El log despues de eliminarla*
+![✖️ERROR✖️](./imagenes/15.png)
