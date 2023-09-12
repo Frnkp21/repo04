@@ -25,16 +25,21 @@
 ![✖️ERROR✖️](./imagenes/7.png)
 
 ## 4.5 – Haz 3 commits desde nuestra rama (david02032022)
+
 *Primer commit*
 ![✖️ERROR✖️](./imagenes/8.png)
+
 *Segundo commit*
 ![✖️ERROR✖️](./imagenes/9.png)
 
+*Tercer commit*
+![✖️ERROR✖️](./imagenes/10.png)
+
 ## 4.6 – En el siguiente orden realiza lo siguiente:
 
-## 4.6.1 – Fusiona tu rama con master
+### 4.6.1 – Fusiona tu rama con master
 
-## 4.6.2 – Haz un push hacía la nube
+### 4.6.2 – Haz un push hacía la nube
 
 ## 4.7 – Elimina solamente la rama en local david02032022 ya que si eliminásemos la remota no veríamos la rama en remoto.
 
